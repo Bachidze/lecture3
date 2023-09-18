@@ -1,3 +1,32 @@
-body{
-    background: red;
+
+h1{
+    color: yellow;
 }
+
+table, td, th{
+    border: 2px solid black;
+    border-spacing: 2px;
+}
+
+th{
+    border:  2px dashed black;
+}
+
+th{
+    background-color: aqua;
+}
+
+/* th{
+    border: 2px solid red;
+} */
+
+
+/* #giorgi{
+    color: green;
+    background-color: aqua;
+}
+ */
+
+ td{
+    background-color: lightpink;
+ }
